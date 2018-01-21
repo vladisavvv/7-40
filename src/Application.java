@@ -66,14 +66,6 @@ public class Application extends JFrame {
 
         add(selectFile);
 
-
-//        //copy to clipboard
-//        StringSelection stringSelection = new StringSelection(c.toString());
-//        Clipboard clpbrd = Toolkit.getDefaultToolkit().getSystemClipboard();
-//        clpbrd.setContents(stringSelection, null);
-
-//        System.out.println(getPreferredSize().getHeight());
-
         pack();
     }
 

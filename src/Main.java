@@ -1,5 +1,3 @@
-import java.util.List;
-
 import static javax.swing.JFrame.EXIT_ON_CLOSE;
 
 public class Main {

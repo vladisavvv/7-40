@@ -162,7 +162,7 @@ public class Game {
             if(battle.first.score < battle.second.score) {
                 str.append("<strong>" + battle.second.name + "</strong>");
             } else {
-                str.append(battle.first.name);
+                str.append(battle.second.name);
             }
             str.append(" ");
 
